@@ -1,3 +1,3 @@
 """
-Binance Trading Bot modules
+Binance Trading Bot modules 
 """
